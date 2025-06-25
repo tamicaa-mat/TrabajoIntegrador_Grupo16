@@ -19,7 +19,7 @@
 	    <div class="col-md-4">
 	        <div class="card shadow">
 	            <div class="card-body">
-	                <h4 class="card-title text-center mb-4">Ingresar al sistema</h4>
+	                <h4 class="card-title text-center mb-4">Ingresar al sistema prueba</h4>
 	                <form action="LoginServlet" method="post">
 					    <div class="mb-3">
 					        <input type="text" class="form-control" id="usuario" name="usuario" placeholder="Usuario" required>
