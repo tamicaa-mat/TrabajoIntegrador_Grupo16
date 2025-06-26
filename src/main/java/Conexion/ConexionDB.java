@@ -47,6 +47,9 @@ public class ConexionDB {
         }
     }
 
+    
+    
+    
     // Método main para probar la conexión manualmente
     public static void main(String[] args) {
         Connection testConnection = obtenerConexion();
