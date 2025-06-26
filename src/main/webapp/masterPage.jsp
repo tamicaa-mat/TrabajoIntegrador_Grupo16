@@ -24,13 +24,12 @@
 	            <span class="fw-bold text-secondary me-3 align-self-center">
 	                ADMINISTRADOR
 	            </span>
-	            <a href="menuAdministrador.jsp" class="btn btn-secondary btn-sm">Inicio Admin</a>
-	            <a href="ADMINabmlClientes.jsp" class="btn btn-secondary btn-sm">Gestión Clientes</a>
-	            <a href="ADMINabmlUsuarios.jsp" class="btn btn-secondary btn-sm">Gestión Usuarios</a>
-	            <a href="ADMINclienteListaCuentas.jsp" class="btn btn-secondary btn-sm">Gestión Cuentas</a>
-	            <a href="ADMINlistaPrestamos.jsp" class="btn btn-secondary btn-sm">Autorizar Préstamos</a>
-	            <a href="ADMINreportes.jsp" class="btn btn-secondary btn-sm">Reportes Admin</a>
-	            <a href="ADMINlistadoClientes.jsp" class="btn btn-secondary btn-sm">Listado Clientes</a>
+	            <a href="AdministradorABMLclientes.jsp" class="btn btn-secondary btn-sm">Gestión Clientes</a>
+	            <a href="AdministradorABMLusuarios.jsp" class="btn btn-secondary btn-sm">Gestión Usuarios</a>
+	            <a href="AdministradorListaCuentas.jsp" class="btn btn-secondary btn-sm">Gestión Cuentas</a>
+	            <a href="AdministradorListaPrestamos.jsp" class="btn btn-secondary btn-sm">Autorizar Préstamos</a>
+	            <a href="AdministradorReportes.jsp" class="btn btn-secondary btn-sm">Reportes Admin</a>
+	            <a href="AdministradorListaClientes.jsp" class="btn btn-secondary btn-sm">Listado Clientes</a>
 	        </div>
 
 	        <!-- CLIENTE -->
@@ -38,12 +37,11 @@
 	            <span class="fw-bold text-secondary me-3 align-self-center">
 	                CLIENTE
 	            </span>
-	            <a href="menuCliente.jsp" class="btn btn-secondary btn-sm">Inicio Cliente</a>
-	            <a href="CLIENTElistaMovimientos.jsp" class="btn btn-secondary btn-sm">Movimientos</a>
+	            <a href="ClienteListaMovimientos.jsp" class="btn btn-secondary btn-sm">Movimientos</a>
 	            <a href="CLIENTEtransferencias.jsp" class="btn btn-secondary btn-sm">Transferencias</a>
 	            <a href="CLIENTEsolicitarPrestamos.jsp" class="btn btn-secondary btn-sm">Solicitar Préstamo</a>
 	            <a href="CLIENTEpagoPrestamos.jsp" class="btn btn-secondary btn-sm">Pago Préstamos</a>
-	            <a href="CLIENTEinfoPersonal.jsp" class="btn btn-secondary btn-sm">Mi Información</a>
+	            <a href="ClienteInfoPersonal.jsp" class="btn btn-secondary btn-sm">Mi Información</a>
 	        </div>
 
 	        <!-- AVISO NO LOGUEADO -->
