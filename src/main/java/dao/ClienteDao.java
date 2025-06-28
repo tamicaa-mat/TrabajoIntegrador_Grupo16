@@ -5,6 +5,8 @@ import dominio.Cliente;
 
 public interface ClienteDao {
     
+	
+	// probando commit porque no me estaba funcionando....
 
     public boolean insert(Cliente cliente);
     
